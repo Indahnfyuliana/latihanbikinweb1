@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kunyit</title>
+
+    <link rel="stylesheet" href="styles/styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap"
+      rel="stylesheet"/>
+    </head>
+<body>     <!--Tubuh website-->
+    <header> <!--JUDUL UTAMA PADA TAMPILAN-->
+        <div class="jumbotron">
+            <h1>Turmeric</h1>
+        <p>Turmeric &#40;Curcuma longa Linn&#46; syn&#46; Curcuma domestica Val&#46;&#41;</p>
+        </div>
+    <nav>
+        <ul>
+            <li><a href="#About">About</a></li>
+            <li><a href="#Benefit">Benefit</a></li>
+            <li><a href="#Ingridients">Ingridients</a></li>
+            <li><a href="#Plant Characteristics">Plant Characteristics</a></li>
+        </ul>
+    </nav>
+    </header>
+    <main> <!--ISI WEBSITE-->
+        <div id="content" class="card">
+            <article id="About" class="card">
+                <h2>About</h2>
+                <img src="image/about.jpg" alt="about" width="100%"> <!--DIRUBAH SAAT DIKUMULKAN-->
+                <figcaption><i>Turmeric rhizome</i></figcaption>
+                <p>is a flowering plant in the ginger family Zingiberaceae. It is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia that requires temperatures between 20 and 30°C (68 and 86°F) and high annual rainfall to thrive. Plants are gathered each year for their rhizomes, some for propagation in the following season and some for consumption.
+
+                The rhizomes are used fresh or boiled in water and dried, after which they are ground into a deep orange-yellow powder commonly used as a coloring and flavoring agent in many Asian cuisines, especially for curries, as well as for the dyeing characteristics imparted by the principal turmeric constituent, curcumin</p>
+            </article>
+
+            <article id="Benefit" class="card">
+                <h2>Benefit</h2>
+                <img src="image/benefit.jpg" alt="benefit" width="100%">
+                <figcaption>turmeric herbal medicine</figcaption>
+                <p>Turmeric is one of the key ingredients in many Asian dishes, imparting a mustard-like, earthy aroma and pungent, slightly bitter flavor to foods.It is used mostly in savory dishes, but also is used in some sweet dishes, such as the cake sfouf. In India, turmeric leaf is used to prepare special sweet dishes, patoleo, by layering rice flour and coconut-jaggery mixture on the leaf, then closing and steaming it in a special utensil (chondrõ).Most turmeric is used in the form of rhizome powder to impart a golden yellow color.It is used in many products such as canned beverages, baked products, dairy products, ice cream, yogurt, yellow cakes, orange juice, biscuits, popcorn, cereals and sauces. It is a principal ingredient in curry powders. Although typically used in its dried, powdered form, turmeric also is used fresh, like ginger.
+                </p>
+                <p>Turmeric is used widely as a spice in South Asian and Middle Eastern cooking. Various Iranian khoresh recipes begin with onions caramelized in oil and turmeric. The Moroccan spice mix ras el hanout typically includes turmeric. In South Africa, turmeric is used to give boiled white rice a golden color, known as geelrys (yellow rice) traditionally served with bobotie. In Vietnamese cuisine, turmeric powder is used to color and enhance the flavors of certain dishes, such as bánh xèo, bánh khọt, and mì Quảng. The staple Cambodian curry paste, kroeung, used in many dishes, including fish amok, typically contains fresh turmeric. In Indonesia, turmeric leaves are used for Minang or Padang curry base of Sumatra, such as rendang, sate padang, and many other varieties. In the Philippines, turmeric is used in the preparation and cooking of kuning, satti, and some variants of adobo.
+                </p>
+                <p>In combination with annatto (E160b), turmeric has been used to color numerous food products. Turmeric is used to give a yellow color to some prepared mustards, canned chicken broths, and other foods—often as a much cheaper replacement for saffron.
+                </p>
+            </article>
+
+            <article id="Ingridients" class="card">
+                <h2>Ingridients</h2>
+                <img src="image/ingridients.jpg" alt="ingridients" width="100%">
+                <figcaption>Ingridients of turmeric</figcaption>
+                <p>Turmeric powder is about 60&#45;70% carbohydrates, 6&#45;13% water, 6&#45;8% protein, 5&#45;10% fat, 3&#45;7% dietary minerals, 3&#45;7% essential oils, 2&#45;7% dietary fiber, and 1&#45;6% curcuminoids. The golden yellow color of turmeric is due to curcumin.
+                </p>
+                <p>Phytochemical components of turmeric include diarylheptanoids, a class including numerous curcuminoids, such as curcumin, demethoxycurcumin, and bisdemethoxycurcumin.Curcumin constitutes up to 3.14% of assayed commercial samples of turmeric powder (the average was 1.51%); curry powder contains much less (an average of 0.29%). Some 34 essential oils are present in turmeric, among which turmerone, germacrone, atlantone, and zingiberene are major constituents.</p>
+            </article>
+
+            <article id="Plant Characteristics" class="card">
+                <h2>Plant Characteristics</h2>
+                <img src="image/plant.jpeg" alt="plant" width="100%">
+                <figcaption>turmerc plant</figcaption>
+                <p>Turmeric is a shrub with a plant height of about 70 cm. The characteristics of the pseudo stem, upright, round, forming a rhizome, yellowish green in color. Turmeric has compound flowers that are hairy and scaly with a stem length of about 16-40 cm. The flower crown is in the form of cylindrical petals, yellow in color, measuring about 3 cm long and 1.5 cm wide. The root part is light brown and is a type of fibrous root.</p>
+            </article>
+        </div>
+        <aside>
+            <article class="profile card">
+                <header>
+                    <h3>Scientific classification</h3>
+                    <img src="image/curcuma-longa.jpeg" alt="curcuma-longa" width="100">
+                </header>
+                <table>
+                    <tr>
+                        <td><strong>Kingdom</strong></td>
+                        <td><i>Plantae</i></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Clade</strong></td>
+                        <td><i>Monocots</i></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Order</strong></td>
+                        <td><i>Zingiberales</i></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Family</strong></td>
+                        <td><i>Zingiberaceae</i></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Genus</strong></td>
+                        <td><i>Curcuma</i></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Species</strong></td>
+                        <td><i>C. longa</i></td>
+                    </tr>
+                </table>
+            </article>
+
+        </aside>
+    </main>
+
+    <footer> <!--FOOTER-->
+        source en.wikipedia.org/wiki/Turmeric
+    </footer>
+</body>
+</html>
